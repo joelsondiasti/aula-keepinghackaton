@@ -4,7 +4,7 @@
 
 ## 👨‍💻 Sobre este repositório
 
-![Keeping Logo](./img/logo.png)
+![Keeping Logo](./img/logo.jpg)
 
 Esse repositório contém uma landing page simples feita apenas com HTML e CSS. Esse material é parte do conteúdo utilizado nas aulas de programação do Curso Técnico em Informática do Instituto Loide Martha ( Duque de Caxias - RJ). 
 
